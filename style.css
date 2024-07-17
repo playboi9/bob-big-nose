@@ -1,0 +1,42 @@
+
+canvas{
+    display: block;
+    border: 15px solid aliceblue;
+    border-radius: 10px;
+}
+
+.GameTitle{
+    padding: 10px;
+    margin-top: 0px;
+    background-color: skyblue;
+    color: rgb(90, 102, 112);
+    font-size: 40px;
+    text-align: center;
+    width: 1280px;
+    border: 5px solid aliceblue;
+    border-radius: 5px;
+}
+
+.mid{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+
+footer{
+    width: 1280px;
+    margin-top: 10px;
+    text-align: center;
+    color: rgb(90, 102, 112);
+    background-color: skyblue;
+    border: 5px solid aliceblue;
+    border-radius: 5px;
+}
+
+
+html, body{
+    height:100%;
+    background-color: #47425f !important;
+    margin: 0;
+}
